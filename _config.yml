@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Bowen Zhang"
 title_separator          : "-"
 name                     : &name "Bowen Zhang"
-description              : &description "undergrad student at SCUT"
+description              : &description "undergradate student at SCUT"
 url                      : https://bowenzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "01Zhangbw/bowenzhang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,6 +23,7 @@ author:
   # Biographic information
   avatar           : "photo.jpg"
   name             : "Bowen Zhang"
+  name2            : "张勃文"
   pronouns         : # example: "he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Guangzhou, China"
@@ -42,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "bowenzhang"
+  github           : "01Zhangbw"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
