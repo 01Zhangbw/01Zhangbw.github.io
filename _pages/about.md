@@ -31,7 +31,9 @@ Ziqian Zeng, *<ins>Jiahong Yu</ins>*, Qianshi Pang, Zihao Wang, Huiping Zhuang, 
 
 ## 🎖 Awards
 
-- *2022.12* National Scholarship 
+- *2022.12* **National Scholarship** 
+- *2023.12* **Top Ten Excellent Students** model of South China University of Technology
+- *2023.12* Top Ten Excellent Classes Nomination Award of South China University of Technology(as monitor)
 - *2023.3* Mathematical Contest In Modeling (MCM) Finalist
 - *2023.12 & 2022.12* Chinese Mathematics Competitions(Guangdong) First Prize
   
