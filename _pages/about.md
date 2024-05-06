@@ -13,7 +13,7 @@ I am a 3rd-year undergraduate student majoring in **Software Engineering** at th
 # News
 
 - [Apr. 2024] Awarded Top Ten Excellent Communist Party Members Nomination Award of South China University of Technology
-- [Dec. 2023] Awarded **Top Ten** Excellent Students Models of South China University of Technology
+- [Dec. 2023] Awarded **Top Ten Excellent Students Models** of South China University of Technology
 - [Dec. 2022] Awarded **National Scholarship**
 
 # Education
@@ -32,7 +32,7 @@ I am a 3rd-year undergraduate student majoring in **Software Engineering** at th
   Research Intern @ [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), 2023.10~Present    
   Advisor: [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)       
 
-* <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
+<img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
 * **South China University of Technology**            
   Research Intern @ [Key Laboratory of Big Data and Intelligent Robot](https://www2.scut.edu.cn/sse/2018/0615/c16788a270751/page.htm), 2023.3~Present    
@@ -40,12 +40,12 @@ I am a 3rd-year undergraduate student majoring in **Software Engineering** at th
 
 # Honors & Awards
 * National Scholarship, 2022
-* Top Ten Excellent Students model of South China University of Technology, 2023
+* Top Ten Excellent Students Models of South China University of Technology, 2023
 * Top Ten Excellent Communist Party Members Nomination Award of South China University of Technology, 2024
 * Mathematical Contest In Modeling (MCM): Finalist, 2023
 * The Chinese Mathematics Competitions (Guangdong): First Prize, 2022 & 2023 (twice)
 * National College Student Algorithm Design and Programming Challenge: Gold Prize, 2023
 * MathorCup College Mathematical Modeling Challenge: Second Prize, 2023
 * National College Students’ Software Innovation Competition (South China Area): Second Prize, 2024
-* Top Ten Excellent Classes Nomination Award of South China University of Technology(as monitor), 2023
+* Top Ten Excellent Classes Nomination Award of South China University of Technology (as monitor), 2023
 * First Prize Scholarship of South China University of Technology, 2023
