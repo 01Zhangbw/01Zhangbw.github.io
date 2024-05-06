@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
 ---
 
 I am a 3rd-year undergraduate student majoring in **Software Engineering** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). I am a research intern in [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Analysis**, **Graph Learning** and **Spatio-temporal Data Mining**.
@@ -15,7 +14,8 @@ I am a 3rd-year undergraduate student majoring in **Software Engineering** at th
 
 - [Apr. 2024] Awarded Top Ten Excellent Communist Party Members Nomination Award of South China University of Technology
 - [Dec. 2023] Awarded **Top Ten** Excellent Students Models of South China University of Technology
-- [Dec. 2022] Awarded National Scholarship
+- [Dec. 2022] Awarded **National Scholarship**
+
 # Education
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
@@ -39,8 +39,7 @@ I am a 3rd-year undergraduate student majoring in **Software Engineering** at th
   Advisor: [Yi Cai](https://scholar.google.com.hk/citations?user=ej3Nb5wAAAAJ&hl=zh-CN)  
 
 # Honors & Awards
-
-* National Scholarsh 2022
+* National Scholarship, 2022
 * Top Ten Excellent Students model of South China University of Technology, 2023
 * Top Ten Excellent Communist Party Members Nomination Award of South China University of Technology, 2024
 * Mathematical Contest In Modeling (MCM): Finalist, 2023
