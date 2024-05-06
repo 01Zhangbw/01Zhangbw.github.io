@@ -7,25 +7,24 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Guangzhou, China"
 title                    : "Bowen Zhang"
 title_separator          : "-"
-name                     : &name "Bowen Zhang"
+name                     : &name "Disen Lan"
 description              : &description "personal description"
-url                      : https://bowenzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://01Zhangbw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "01Zhangbw/bowenzhang.github.io"
+repository               : "01Zhangbw/01Zhangbw.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpg"
-  name             : "Bowen Zhang"
-  name2            : "张勃文"
+  avatar           : "photo1.jpg"
+  name             : "Bowen Zhang (张勃文)"
   pronouns         : # example: "he/his"  
-  bio              : "undergradate student at SCUT"
+  bio              : #"undergradate student at SCUT"
   location         : "Guangzhou, China"
   employer         : "South China University of Technology"
   uri              : # URL
