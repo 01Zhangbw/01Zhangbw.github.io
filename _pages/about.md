@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year undergraduate student majoring in **Software Engineering** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). I am a research intern in [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Analysis**, **Graph Learning** and **Spatio-temporal Data Mining**.
+I am a 3rd-year undergraduate student majoring in **Software Engineering** at the [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/). I am a research intern in [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Analysis**, **Graph Learning** and **Spatio-temporal Data Mining**.
 
 # News
 
