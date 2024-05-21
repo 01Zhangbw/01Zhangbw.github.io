@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year undergraduate student majoring in **Software Engineering** at the [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/). I am a research intern in [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Analysis**, **Graph Learning** and **Spatio-temporal Data Mining**. Please Check my [CV](https://01zhangbw.github.io/files/CV.pdf) for more information!
+I am a 3rd-year undergraduate student majoring in **Software Engineering** at the [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/). I am a research intern in [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Modeling**, **Graph Learning** and **Spatio-temporal Data Mining**. Please Check my [CV](https://01zhangbw.github.io/files/CV.pdf) for more information!
 
 # News
 
-- [Apr. 2024] Awarded Top Ten Excellent Communist Party Members Nomination Award of South China University of Technology
-- [Dec. 2023] Awarded **Top Ten Excellent Students Models** of South China University of Technology
-- [Dec. 2022] Awarded **National Scholarship**
+- [Apr. 2024] Awarded Top Ten Excellent Communist Party Members Nomination Award of South China University of Technology!
+- [Dec. 2023] Awarded **Top Ten Excellent Students Models** of South China University of Technology!
+- [Dec. 2022] Awarded **National Scholarship**!
 
 # Education
 
@@ -22,7 +22,7 @@ I am a 3rd-year undergraduate student majoring in **Software Engineering** at th
 
 * **South China University of Technology**, Guangzhou, China           
   B.E. in Software Engineering(Excellent Engineer Class), 2021~2025 (expected)         
-  GPA: 3.84/4.0 (Rank: 4/49)        
+  GPA: 3.84/4.0      
 
 # Experience
 
