@@ -25,11 +25,11 @@ I am a 3rd-year undergraduate student majoring in **Software Engineering** at th
   GPA: 3.84/4.0 (90.32/100)     
 
 # Experience
+
 <img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
 
 * **The Hong Kong University of Science and Technology (Guangzhou)**            
-  Research Intern @ [CityMind Lab](https://citymind.top/), 2024.5~Present
-  
+  Research Intern @ [CityMind Lab](https://citymind.top/), 2023.8 ~ 2024.5    
   Advisor: [Yuxuan Liang](https://yuxuanliang.com/)  
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
