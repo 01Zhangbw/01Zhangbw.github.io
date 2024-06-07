@@ -28,9 +28,8 @@ I am a 3rd-year undergraduate student majoring in **Software Engineering** at th
 <img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
 
 * **The Hong Kong University of Science and Technology (Guangzhou)**            
-Research Intern @ [CityMind Lab](https://citymind.top/), 2024.5~Present
-
-Advisor: [Yuxuan Liang](https://yuxuanliang.com/)  
+  Research Intern @ [CityMind Lab](https://citymind.top/), 2024.5~Present
+  Advisor: [Yuxuan Liang](https://yuxuanliang.com/)  
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
@@ -54,4 +53,4 @@ Advisor: [Yuxuan Liang](https://yuxuanliang.com/)
 * MathorCup College Mathematical Modeling Challenge: Second Prize, 2023
 * Top Ten Excellent Classes Nomination Award of South China University of Technology (as monitor), 2023
 * First Prize Scholarship of South China University of Technology, 2023
-* "Guang Zhui Yuan Cup" Software Design Competition of South China University of Technology: First Prize, 2024
+* Software Design Competition of South China University of Technology: First Prize, 2024
