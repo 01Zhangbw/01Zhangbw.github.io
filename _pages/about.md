@@ -55,4 +55,3 @@ Advisor: [Yuxuan Liang](https://yuxuanliang.com/)
 * MathorCup College Mathematical Modeling Challenge: Second Prize, 2023
 * Top Ten Excellent Classes Nomination Award of South China University of Technology (as monitor), 2023
 * First Prize Scholarship of South China University of Technology, 2023
-# * Software Design Competition of South China University of Technology: First Prize, 2024
