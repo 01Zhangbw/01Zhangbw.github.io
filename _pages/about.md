@@ -51,7 +51,8 @@ Advisor: [Yuxuan Liang](https://yuxuanliang.com/)
 * Mathematical Contest In Modeling (MCM): Finalist, 2023
 * The Chinese Mathematics Competitions (Guangdong): First Prize, 2022 & 2023 (twice)
 * National College Student Algorithm Design and Programming Challenge: Gold Prize, 2023
+* College Student Computer Innovation Competition (Guangdong): First Prize, 2024
 * MathorCup College Mathematical Modeling Challenge: Second Prize, 2023
 * Top Ten Excellent Classes Nomination Award of South China University of Technology (as monitor), 2023
 * First Prize Scholarship of South China University of Technology, 2023
-* Software Design Competition of South China University of Technology: First Prize, 2024
+# * Software Design Competition of South China University of Technology: First Prize, 2024
