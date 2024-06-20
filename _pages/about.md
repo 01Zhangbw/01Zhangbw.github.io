@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year undergraduate student majoring in **Software Engineering** at the [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/). I am a research intern in [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Modeling**, **Natural Language Processing** , **Graph Learning**, and  **Spatio-temporal Data Mining**. Please Check my [CV](https://01zhangbw.github.io/files/CV.pdf) for more information!
+I am a 3rd-year undergraduate student majoring in **Software Engineering** at the [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/). Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Yuxuan Liang](https://yuxuanliang.com/). I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). And I joined [Key Laboratory of Big Data and Intelligent Robot](https://www2.scut.edu.cn/sse/2018/0615/c16788a270751/page.htm) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Yi Cai](https://scholar.google.com.hk/citations?user=ej3Nb5wAAAAJ&hl=zh-CN). My research interests include **Time Series Modeling**, **Natural Language Processing** , **Graph Learning**, and  **Spatio-temporal Data Mining**. Please check my [CV](https://01zhangbw.github.io/files/CV.pdf) for more information!
 
 # News
 
-- [Apr. 2024] Awarded Top Ten Excellent Communist Party Members Nomination Award of South China University of Technology!
-- [Dec. 2023] Awarded **Top Ten Excellent Students Models** of South China University of Technology!
-- [Dec. 2022] Awarded **National Scholarship**!
+- [Apr. 2024] Awarded **[Top Ten Excellent Communist Party Members Nomination Award](https://mp.weixin.qq.com/s/AMCZffkbv9R1IciG7LYQNw)** of South China University of Technology!
+- [Dec. 2023] Awarded **[Top Ten Excellent Students Models](https://news.scut.edu.cn/2023/1129/c160a47957/page.htm)** of South China University of Technology!
+- [Dec. 2022] Awarded **[National Scholarship](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202212/t20221227_1036671.html)**!
 
 # Education
 
