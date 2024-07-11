@@ -45,13 +45,13 @@ Advisor: [Yuxuan Liang](https://yuxuanliang.com/)
   Advisor: [Yi Cai](https://scholar.google.com.hk/citations?user=ej3Nb5wAAAAJ&hl=zh-CN)  
 
 # Honors & Awards
-* National Scholarship, 2022
-* Top Ten Excellent Students Models of South China University of Technology, 2023
-* Top Ten Excellent Communist Party Members Nomination Award of South China University of Technology, 2024
-* Mathematical Contest In Modeling (MCM): Finalist, 2023
+* National Scholarship, 2022 (Top 0.2% nation-wide)
+* Top Ten Excellent Students Models of South China University of Technology, 2023 (Top 0.05% in SCUT)
+* Top Ten Excellent Communist Party Members Nomination Award of South China University of Technology, 2024 (Top 0.02% in SCUT)
+* Mathematical Contest In Modeling (MCM): Finalist, 2023 (Top 0.17% international)
 * The Chinese Mathematics Competitions (Guangdong): First Prize, 2022 & 2023 (twice)
-* National College Student Algorithm Design and Programming Challenge: Gold Prize, 2023
-* College Student Computer Innovation Competition (Guangdong): First Prize, 2024
+* National College Student Algorithm Design and Programming Challenge: Gold Prize, 2023 (Top 5% national)
+* College Student Computer Innovation Competition (Guangdong): First Prize, 2024 (Top 0.6%)
 * MathorCup College Mathematical Modeling Challenge: Second Prize, 2023
 * Top Ten Excellent Classes Nomination Award of South China University of Technology (as monitor), 2023
 * First Prize Scholarship of South China University of Technology, 2023
