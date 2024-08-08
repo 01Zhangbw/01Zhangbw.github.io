@@ -31,7 +31,7 @@ I am a 3rd-year undergraduate student majoring in **Software Engineering** at th
 * **The Hong Kong University of Science and Technology (Guangzhou)**            
   Research Intern @ [CityMind Lab](https://citymind.top/), 2024.5 ~ Present  
   Research Topic: Time-series Modeling & Spatio-temporal Data Mining
-Advisor: [Yuxuan Liang](https://yuxuanliang.com/)  
+  Advisor: [Yuxuan Liang](https://yuxuanliang.com/)  
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
