@@ -56,4 +56,4 @@ I am a 3rd-year undergraduate student majoring in **Software Engineering** at th
 * College Student Computer Innovation Competition (Guangdong): First Prize, 2024 (Top 0.6%)
 * MathorCup College Mathematical Modeling Challenge: Second Prize, 2023
 * Top Ten Excellent Classes Nomination Award of South China University of Technology (as monitor), 2023
-* First Prize Scholarship of South China University of Technology, 2023
+* First Prize Scholarship of South China University of Technology, 2023 (Top 4%)
