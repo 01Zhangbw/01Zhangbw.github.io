@@ -29,7 +29,7 @@ I am a 3rd-year undergraduate student majoring in **Software Engineering** at th
 
 * **The Hong Kong University of Science and Technology (Guangzhou)**            
   Research Intern @ [CityMind Lab](https://citymind.top/), 2024.5 ~ Present  
-  Research Topic: Time-series Modeling & Spatio-temporal Data Mining
+  Research Topic: Time-series Modeling & Spatio-temporal Data Mining      
   Advisor: [Yuxuan Liang](https://yuxuanliang.com/)  
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
@@ -43,7 +43,7 @@ I am a 3rd-year undergraduate student majoring in **Software Engineering** at th
 
 * **South China University of Technology**            
   Research Intern @ [Key Laboratory of Big Data and Intelligent Robot](https://www2.scut.edu.cn/sse/2018/0615/c16788a270751/page.htm), 2023.3~2024.6   
-  Research Topic: Natural Language Processing & Computer Vision
+  Research Topic: Natural Language Processing & Computer Vision        
   Advisor: [Yi Cai](https://scholar.google.com.hk/citations?user=ej3Nb5wAAAAJ&hl=zh-CN)  
 
 # Honors & Awards
