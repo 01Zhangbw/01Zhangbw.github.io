@@ -12,7 +12,7 @@ I am a 3rd-year undergraduate student majoring in **Software Engineering** at th
 # News
 
 - [Apr. 2024] Awarded **[Top Ten Excellent Communist Party Members Nomination Award](https://mp.weixin.qq.com/s/AMCZffkbv9R1IciG7LYQNw)** of South China University of Technology!
-- [Dec. 2023] Awarded **[Top Ten Excellent Students Models](https://news.scut.edu.cn/2023/1129/c160a47957/page.htm)** of South China University of Technology!
+- [Dec. 2023] Awarded **[Top Ten Excellent Students Models](https://news.scut.edu.cn/2023/1129/c160a47957/page.htm)** of South China University of Technology! (The **best honor** for undergraduates of SCUT, Top 0.05%)
 - [Dec. 2022] Awarded **[National Scholarship](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202212/t20221227_1036671.html)**!
 
 # Education
