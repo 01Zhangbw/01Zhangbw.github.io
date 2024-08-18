@@ -10,7 +10,7 @@
 locale                   : "Guangzhou, China"
 title                    : "Bowen Zhang"
 title_separator          : "-"
-name                     : &name "Disen Lan"
+name                     : &name "Bowen Zhang"
 description              : &description "personal description"
 url                      : https://01Zhangbw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
