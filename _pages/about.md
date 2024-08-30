@@ -35,7 +35,7 @@ I am a final-year undergraduate student majoring in **Software Engineering** at 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
 * **South China University of Technology**            
-  Research Intern @ [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), 2023.10~Present    
+  Research Intern @ [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), 2023.10~2024.9   
   Research Topic: Data Mining & Graph Neural Network & Mixture of Experts
   Advisor: [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)       
 
