@@ -17,7 +17,7 @@ I am a final-year undergraduate student majoring in **Software Engineering** at 
 - [Dec. 2022] Awarded **[National Scholarship](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202212/t20221227_1036671.html)**!
 
 # Education
-<img src="images/../../images/logos/CUHK.png" alt="CUHK" style="float: right; margin-right: 10px; ; width: 100px; height: 90px;" />
+<img src="images/../../images/logos/CUHK.png" alt="CUHK" style="float: right; margin-right: 10px; ; width: 100px; height: 80px;" />
 
 * **The Chinese University of Hong Kong**, Hong Kong SAR, China           
   Ph.D. in Systems Engineering and Engineering Management, 2025~Present         
