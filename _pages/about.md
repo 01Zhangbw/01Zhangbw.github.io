@@ -53,8 +53,8 @@ I am a final-year undergraduate student majoring in **Software Engineering** at 
 
 # Honors & Awards
 * National Scholarship, 2022 (Top 0.2% nation-wide)
-* Top Ten Excellent Students Models of South China University of Technology, 2023 (Top 0.05% in SCUT)
-* Top Ten Excellent Communist Party Members Nomination Award of South China University of Technology, 2024 (Top 0.02% in SCUT)
+* Top Ten Excellent Students Models of South China University of Technology, 2023 (Top 0.05% at SCUT)
+* Top Ten Excellent Communist Party Members Nomination Award of South China University of Technology, 2024 (Top 0.02% at SCUT)
 * Mathematical Contest In Modeling (MCM): Finalist, 2023 (Top 0.17% international)
 * The Chinese Mathematics Competitions (Guangdong): First Prize, 2022 & 2023 (twice)
 * National College Student Algorithm Design and Programming Challenge: Gold Prize, 2023 (Top 5% national)
