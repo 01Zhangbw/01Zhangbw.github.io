@@ -26,7 +26,7 @@ I am a final-year undergraduate student majoring in **Software Engineering** at 
 
 * **South China University of Technology**, Guangzhou, China           
   B.E. in Software Engineering(Excellent Engineer Class), 2021~2025 (expected)         
-  GPA: 3.87/4.0 (90.42/100)     
+  GPA: 3.87/4.0 (90.65/100)     
 
 # Experience
 
