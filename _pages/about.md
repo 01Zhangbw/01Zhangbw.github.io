@@ -20,7 +20,7 @@ I am a final-year undergraduate student majoring in **Software Engineering** at 
 <img src="images/../../images/logos/CUHK.png" alt="CUHK" style="float: right; margin-right: 10px; ; width: 100px; height: 80px;" />
 
 * **The Chinese University of Hong Kong**, Hong Kong SAR, China           
-  Ph.D. in Systems Engineering and Engineering Management, 2025~Present       
+  Incoming Ph.D. student, 2025~Present       
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
