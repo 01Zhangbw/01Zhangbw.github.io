@@ -12,7 +12,7 @@ I am a final-year undergraduate student majoring in **Software Engineering** at 
 # News
 
 - [Sep. 2024] Two papers about *Time-series Modeling* are submitted to **ICLR2025**!
-- [Aug. 2024] Happy to receive an offer from **[CUHK]**(https://www.cuhk.edu.hk/chinese/index.html)!
+- [Aug. 2024] Happy to receive an offer from **[CUHK](https://www.cuhk.edu.hk/chinese/index.html)**!
 - [Apr. 2024] Awarded **[Top Ten Excellent Communist Party Members Nomination Award](https://mp.weixin.qq.com/s/AXQzvTPrwo7ziBO1-_E-jw)** of South China University of Technology!
 - [Dec. 2023] Awarded **[Top Ten Excellent Students Models](https://news.scut.edu.cn/2023/1129/c160a47957/page.htm)** of South China University of Technology! (The **best honor** for undergraduates of SCUT, Top 0.05%)
 - [Dec. 2022] Awarded **[National Scholarship](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202212/t20221227_1036671.html)**!
