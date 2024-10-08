@@ -11,6 +11,7 @@ redirect_from:
 I am a final-year undergraduate student majoring in **Software Engineering** at the [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/). Now I am a research intern in **CityMind Lab** at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by [Prof. Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). And I joined [Key Laboratory of Big Data and Intelligent Robot](https://www2.scut.edu.cn/sse/2018/0615/c16788a270751/page.htm) at [SCUT](https://www.scut.edu.cn/), advised by [Prof. Yi Cai](https://scholar.google.com.hk/citations?user=ej3Nb5wAAAAJ&hl=zh-CN).
 # News
 
+- [Oct. 2024] Awarded **Shenzhen Haopeng Technology Diligence Scholarship** (10k RMB, Rank 1/412)!!
 - [Sep. 2024] Awarded **[First-class of Hongping Changqing Technology Innovation Scholarship of SCUT](https://www2.scut.edu.cn/_upload/article/files/95/21/192f9fa84a9dbbabe5641a8c1304/4df3c38b-e435-4d9a-b480-af5893d93b2c.pdf)** (3k RMB)
 - [Sep. 2024] Two papers about *Time-series Modeling* are submitted to **[ICLR'25](https://iclr.cc/)**
 - [Apr. 2024] Awarded **[Top Ten Excellent Communist Party Members Nomination Award of SCUT](https://mp.weixin.qq.com/s/AXQzvTPrwo7ziBO1-_E-jw)** (Top 0.02% at SCUT)
@@ -53,6 +54,7 @@ I am a final-year undergraduate student majoring in **Software Engineering** at 
 * National Scholarship, 2022 (Top 0.2% nation-wide)
 * Top Ten Excellent Students Models of South China University of Technology, 2023 (Top 0.05% at SCUT, only ten of all undergraduates at SCUT)
 * Top Ten Excellent Communist Party Members Nomination Award of South China University of Technology, 2024 (Top 0.02% of all students at SCUT)
+* Shenzhen Haopeng Technology Diligence Scholarship, 2024 (10k RMB, Rank 1/412)
 * First-class Prize Scholarship of South China University of Technology, 2023 (Top 2% at SCUT)
 * First-class of Hongping Changqing Technology Innovation Scholarship of SCUT, 2024
 * Top Ten Excellent Classes Nomination Award of South China University of Technology (as monitor), 2023 (only ten of all undergraduate classes at SCUT)
