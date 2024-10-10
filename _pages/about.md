@@ -30,7 +30,7 @@ I am a final-year undergraduate student majoring in **Software Engineering** at 
 # Selected Work
 
 * **Toward Physics-guided Time Series Embedding**           
-Jiaxi Hu, **Bowen Zhang**, Qingsong Wen, Fugee Tsung, Yuxuan Liang
+Jiaxi Hu, **Bowen Zhang**, Qingsong Wen, Fugee Tsung, Yuxuan Liang    
 arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2410.06651)
 
 # Experience
