@@ -27,6 +27,12 @@ I am a final-year undergraduate student majoring in **Software Engineering** at 
   B.E. in Software Engineering(Excellent Engineer Class), 2021~2025 (expected)         
   GPA: 3.87/4.0 (90.67/100, Rank 4/49)     
 
+# Selected Work
+
+* **Toward Physics-guided Time Series Embedding**           
+Jiaxi Hu, **Bowen Zhang**, Qingsong Wen, Fugee Tsung, Yuxuan Liang
+arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2410.06651)
+
 # Experience
 
 <img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
