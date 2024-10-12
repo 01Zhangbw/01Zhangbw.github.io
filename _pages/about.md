@@ -11,13 +11,13 @@ redirect_from:
 I am a final-year undergraduate student majoring in **Software Engineering** at the [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/). Now I am a research intern in **CityMind Lab** at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by [Prof. Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). And I joined [Key Laboratory of Big Data and Intelligent Robot](https://www2.scut.edu.cn/sse/2018/0615/c16788a270751/page.htm) at [SCUT](https://www.scut.edu.cn/), advised by [Prof. Yi Cai](https://scholar.google.com.hk/citations?user=ej3Nb5wAAAAJ&hl=zh-CN). 
 # News
 
-- [Oct. 2024] Awarded **Shenzhen Haopeng Technology Diligence Scholarship** (10k RMB, Rank 1/412)!!
-- [Sep. 2024] Awarded **[First-class of Hongping Changqing Technology Innovation Scholarship of SCUT](https://www2.scut.edu.cn/_upload/article/files/95/21/192f9fa84a9dbbabe5641a8c1304/4df3c38b-e435-4d9a-b480-af5893d93b2c.pdf)** (3k RMB)
-- [Sep. 2024] Two papers about *Time-series Modeling* are submitted to **[ICLR'25](https://iclr.cc/)**
-- [Apr. 2024] Awarded **[Top Ten Excellent Communist Party Members Nomination Award of SCUT](https://mp.weixin.qq.com/s/AXQzvTPrwo7ziBO1-_E-jw)** (Top 0.02% at SCUT)
-- [Dec. 2023] Awarded **[Top Ten Excellent Students Models of SCUT](https://news.scut.edu.cn/2023/1129/c160a47957/page.htm)** (15k RMB, The **best honor** for undergraduates of SCUT, Top 0.05%)
-- [Sep. 2023] Awarded **First-class Prize Scholarship of SCUT** (4k RMB, Top 2% at SCUT)
-- [Dec. 2022] Awarded **[National Scholarship](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202212/t20221227_1036671.html)** (8k RMB, Top 0.2% nation-wide)
+- [Oct. 2024] :tada:Awarded **Shenzhen Haopeng Technology Diligence Scholarship** (10k RMB, Rank 1/412)!!
+- [Sep. 2024] :tada:Awarded **[First-class of Hongping Changqing Technology Innovation Scholarship of SCUT](https://www2.scut.edu.cn/_upload/article/files/95/21/192f9fa84a9dbbabe5641a8c1304/4df3c38b-e435-4d9a-b480-af5893d93b2c.pdf)** (3k RMB)
+- [Sep. 2024] :tada:Two papers about *Time-series Modeling* are submitted to **[ICLR'25](https://iclr.cc/)**
+- [Apr. 2024] :tada:Awarded **[Top Ten Excellent Communist Party Members Nomination Award of SCUT](https://mp.weixin.qq.com/s/AXQzvTPrwo7ziBO1-_E-jw)** (Top 0.02% at SCUT)
+- [Dec. 2023] :tada:Awarded **[Top Ten Excellent Students Models of SCUT](https://news.scut.edu.cn/2023/1129/c160a47957/page.htm)** (15k RMB, The **best honor** for undergraduates of SCUT, Top 0.05%)
+- [Sep. 2023] :tada:Awarded **First-class Prize Scholarship of SCUT** (4k RMB, Top 2% at SCUT)
+- [Dec. 2022] :tada:Awarded **[National Scholarship](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202212/t20221227_1036671.html)** (8k RMB, Top 0.2% nation-wide)
 
 # Education
 
