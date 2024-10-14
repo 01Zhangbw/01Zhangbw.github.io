@@ -33,6 +33,10 @@ I am a final-year undergraduate student majoring in **Software Engineering** at 
 Jiaxi Hu, **Bowen Zhang**, Qingsong Wen, Fugee Tsung, Yuxuan Liang    
 arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2410.06651)
 
+* **Hi-Patch: Hierarchical Patch GNN for Irregular Multivariate Time Series Modeling**
+Yicheng Luo, **Bowen Zhang**, Zhen Liu, Qianli Ma
+2024 [[Paper]](https://01Zhangbw.github.io/)
+
 # Experience
 
 <img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
