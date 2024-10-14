@@ -38,22 +38,22 @@ arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2410.06651)
 <img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
 
 * **The Hong Kong University of Science and Technology (Guangzhou)**            
-  Research Intern @ **CityMind Lab**, 2024.6 ~ Present  
+  Research Intern @ **CityMind Lab**, 2024.7 ~ 2024.8  
   Research Topic: Time-series Modeling & Spatio-temporal Data Mining      
   Advisor: [Prof. Yuxuan Liang](https://yuxuanliang.com/)  
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
 * **South China University of Technology**            
-  Research Intern @ [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), 2023.10~2024.9   
+  Research Intern @ [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), 2023.10~2024.6   
   Research Topic: Time-series & Graph Neural Network & Mixture of Experts
   Advisor: [Prof. Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)       
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
 * **South China University of Technology**            
-  Research/Project Intern @ [Key Laboratory of Big Data and Intelligent Robot](https://www2.scut.edu.cn/sse/2018/0615/c16788a270751/page.htm), 2023.3~2024.6   
-  Research Topic: Natural Language Processing & Computer Vision & Speech Processing   
+  Project Intern @ [Key Laboratory of Big Data and Intelligent Robot](https://www2.scut.edu.cn/sse/2018/0615/c16788a270751/page.htm), 2023.11~2024.5   
+  Project Topic: WiseSight: AIGC-based Smart Glasses for Elderly Life Assistance   
   Advisor: [Prof. Yi Cai](https://scholar.google.com.hk/citations?user=ej3Nb5wAAAAJ&hl=zh-CN)  
 
 # Honors & Awards
