@@ -42,7 +42,7 @@ Yicheng Luo, **Bowen Zhang**, Zhen Liu, Qianli Ma
 <img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
 
 * **The Hong Kong University of Science and Technology (Guangzhou)**            
-  Research Intern @ **CityMind Lab**, 2024.7 ~ 2024.8  
+  Research Intern @ **CityMind Lab**, 2024.6 ~ 2024.8  
   Research Topic: Time-series Modeling & Spatio-temporal Data Mining      
   Advisor: [Prof. Yuxuan Liang](https://yuxuanliang.com/)  
 
