@@ -60,6 +60,13 @@ Yicheng Luo, **Bowen Zhang**, Zhen Liu, Qianli Ma
   Project Topic: WiseSight: AIGC-based Smart Glasses for Elderly Life Assistance   
   Advisor: [Prof. Yi Cai](https://scholar.google.com.hk/citations?user=ej3Nb5wAAAAJ&hl=zh-CN)  
 
+<img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
+
+* **South China University of Technology**            
+  Project Intern @ [Group of Large Software Development and Application](https://www2.scut.edu.cn/sse/2018/0614/c16788a270676/page.htm), 2022.12~2023.12   
+  Project Topic: A question&answer system for cpp knowledge  
+  Advisor: [Prof. Fei Liu](https://scholar.google.com/citations?hl=en&user=gC-YMYgAAAAJ&view_op=list_works)  
+
 # Honors & Awards
 * National Scholarship, 2022 (Top 0.2% nation-wide)
 * Top Ten Excellent Students Models of South China University of Technology, 2023 (Top 0.05% at SCUT, only ten of all undergraduates at SCUT)
