@@ -16,7 +16,7 @@ I am a final-year undergraduate student (with **Top Ten Excellent Students Model
 - [Sep. 2024] Two papers about *Time-series Modeling* are submitted to **[ICLR'25](https://iclr.cc/)**
 - [Apr. 2024] Awarded **[Top Ten Excellent Communist Party Members Nomination Award of SCUT](https://mp.weixin.qq.com/s/AXQzvTPrwo7ziBO1-_E-jw)** (Top 0.02% at SCUT)
 - [Dec. 2023] Awarded **[Top Ten Excellent Students Models of SCUT](https://news.scut.edu.cn/2023/1129/c160a47957/page.htm)** (15k RMB, The **best honor** for undergraduates of SCUT, Top 0.05%)
-- [Sep. 2023] Awarded **First Prize Scholarship of SCUT** (4k RMB, Top 2% at SCUT)
+- [Sep. 2023] Awarded **[First Prize Scholarship of SCUT](https://01Zhangbw.github.io/images/First_Prize.png)** (4k RMB, Top 2% at SCUT)
 - [Dec. 2022] Awarded **[National Scholarship](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202212/t20221227_1036671.html)** (8k RMB, Top 0.2% nation-wide)
 
 # Education
