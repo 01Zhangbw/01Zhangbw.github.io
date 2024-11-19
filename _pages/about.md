@@ -19,6 +19,7 @@ My research interests include:
 
 # News
 
+- [Nov. 2024] Awarded **"Encounter Xiaomian" Innovation Scholarship of SCUT** twice (1k RMB * 2)!
 - [Oct. 2024] Glad to pass the IELTS test with score 6.5!
 - [Oct. 2024] Awarded **Shenzhen Haopeng Technology Diligence Scholarship** (10k RMB, Rank 1/412)!!
 - [Sep. 2024] Awarded **[First-class of Hongping Changqing Technology Innovation Scholarship of SCUT](https://www2.scut.edu.cn/_upload/article/files/95/21/192f9fa84a9dbbabe5641a8c1304/4df3c38b-e435-4d9a-b480-af5893d93b2c.pdf)** (3k RMB)
@@ -34,7 +35,7 @@ My research interests include:
 
 * **South China University of Technology**, Guangzhou, China           
   B.E. in Software Engineering(Excellent Engineer Class), 2021~2025 (expected)         
-  GPA: 3.87/4.0 (90.67/100, Rank 4/49)     
+  GPA: 3.87/4.0 (90.65/100, Rank 4/49)     
 
 # Experience
 <!--
@@ -81,6 +82,7 @@ My research interests include:
 * Shenzhen Haopeng Technology Diligence Scholarship, 2024 (10k RMB, Rank 1/412)
 * First Prize Scholarship of South China University of Technology, 2023 (Top 2% at SCUT)
 * First-class of Hongping Changqing Technology Innovation Scholarship of SCUT, 2024
+* "Encounter Xiaomian" Innovation Scholarship of SCUT (twice), 2024
 * Top Ten Excellent Classes Nomination Award of South China University of Technology (as monitor), 2023 (only ten of all undergraduate classes at SCUT)
 * Mathematical Contest In Modeling (MCM): Finalist, 2023 (Top 0.17% world-wide)
 * The Chinese Mathematics Competitions (Guangdong): First Prize, 2022 & 2023 (twice, Top 7.8% provincial)
