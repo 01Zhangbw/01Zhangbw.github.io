@@ -30,22 +30,13 @@ My research interests include:
 - [12/2023] Awarded **[Top Ten Excellent Students Models of SCUT](https://news.scut.edu.cn/2023/1129/c160a47957/page.htm)** (15k RMB, The **highest honor** for undergraduates of SCUT, Top 10/27557 at SCUT)
 - [09/2023] Awarded **[First Prize Scholarship of SCUT](https://01Zhangbw.github.io/images/First_Prize.pdf)** (4k RMB, Top 2% at SCUT)
 - [12/2022] Awarded **[National Scholarship](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202212/t20221227_1036671.html)** (8k RMB, Top 0.2% nation-wide)
-<!--# 📑 Publications
 
-* **Hi-Patch: Hierarchical Patch GNN for Irregular Multivariate Time Series Modeling**           
-Yicheng Luo, **Bowen Zhang**, Zhen Liu, Qianli Ma       
-ICLR, 2025. [[Paper]](https://openreview.net/forum?id=OGtUfA6Amo) [[Code]](https://github.com/Luo13631654798/Hi-Patch)
-
-
-* **Toward Physics-guided Time Series Embedding**           
-Jiaxi Hu, **Bowen Zhang**, Qingsong Wen, Fugee Tsung, Yuxuan Liang     
-arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2410.06651) [[Code]](https://01zhangbw.github.io/)-->
 # 🚶 Experience
 
 <!--<img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />-->
 
 
-* <!--**South China University of Technology**              
+ <!--**South China University of Technology**              
   Research Intern @ ["Human-like Emotional Intelligence" Joint Innovation Laboratory](https://www2.scut.edu.cn/ee_en/), 2024.11 ~ Present  
   Research Topic: Affective Computing & Text-to-Speech       
   Advisor: [Prof. Xiaofen Xing](https://dblp.org/pid/41/9939.html) and [Prof. Xiangmin Xu](https://dblp.org/pid/28/9939.html) -->
