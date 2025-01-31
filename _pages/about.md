@@ -20,8 +20,10 @@ My research interests include:
 - **Data Mining**: *Time-series Modeling, Spatio-temporal Data Mining, Graph Learning*
 
 # 🔥 News
+
++ [01/2025] Two papers are submitted to **ICML'2025**
+
 - [01/2025] Accept Ph.D. offer from **CUHK**!
-<!-- [01/2025] [Hi-Patch](https://openreview.net/forum?id=OGtUfA6Amo) is accepted by **ICLR'25**-->
 - [11/2024] Awarded **"Encounter Xiaomian" Innovation Scholarship of SCUT** twice (1k RMB * 2)!
 - [10/2024] Glad to pass the **IELTS** test with score 6.5!
 - [10/2024] Awarded **Shenzhen Haopeng Technology Diligence Scholarship** (10k RMB, Rank 1/412)!!
