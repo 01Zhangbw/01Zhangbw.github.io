@@ -22,6 +22,7 @@ My research interests include:
 # 🔥 News
 
 + [01/2025] Two papers are submitted to **ICML'2025**
++ [01/2025] [Speech&Audio papers@Top conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference) is released, welcome to star and advise⭐
 
 - [01/2025] Accept Ph.D. offer from **CUHK**!
 - [11/2024] Awarded **"Encounter Xiaomian" Innovation Scholarship of SCUT** twice (1k RMB * 2)!
