@@ -35,7 +35,7 @@ My research interests include:
 # 📕 Publication
 
 + **[Speech-and-audio-papers-Top-Conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference)**         
-  **Bowen Zhang **         
+  **Bowen Zhang**         
   GitHub Repository, over 40 ⭐
 
 # 🚶 Experience
