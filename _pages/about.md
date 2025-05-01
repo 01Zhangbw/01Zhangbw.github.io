@@ -30,7 +30,7 @@ My research interests include:
 - [09/2023] Awarded **[First Prize Scholarship of SCUT](https://01Zhangbw.github.io/images/First_Prize.pdf)** (4k RMB, Top 2% at SCUT)
 - [12/2022] Awarded **[National Scholarship](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202212/t20221227_1036671.html)** (8k RMB, Top 0.2% nation-wide)
 
-# 📕 Publication
+# 📕 Publications
 + **Hi-Patch: Hierarchical Patch GNN for Irregular Multivariate Time Series**     
 Yicheng Luo, **Bowen Zhang**, Zhen Liu, Qianli Ma         
 *International Conference on Machine Learning (**ICML**), 2025*
