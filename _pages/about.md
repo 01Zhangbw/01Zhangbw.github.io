@@ -21,7 +21,7 @@ My research interests include:
 
 # 🔥 News
 
-+ [05/2025] 🎉🎉🎉**Hi-Patch** is accepted by **ICML'2025**！
++ [05/2025] 🎉🎉🎉**Hi-Patch** is accepted by **ICML'2025**!
 
 + [01/2025] [Speech&Audio papers@Top conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference) is released, welcome to star⭐
 + [01/2025] Accept Ph.D. offer from **CUHK**!
@@ -38,13 +38,12 @@ My research interests include:
 # 📕 Publication
 
 + **Hi-Patch: Hierarchical Patch GNN for Irregular Multivariate Time Series**
-
   Yicheng Luo, **Bowen Zhang**, Zhen Liu, Qianli Ma         
   *International Conference on Machine Learning (**ICML**), 2025*
-
+  
 + **[Speech-and-audio-papers-Top-Conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference)**         
   **Bowen Zhang**         
-  GitHub Repository, 50 ⭐
+  *GitHub Repository, 50 ⭐*
   
 + [Toward Physics-guided Time Series Embedding](https://arxiv.org/abs/2410.06651)
 
