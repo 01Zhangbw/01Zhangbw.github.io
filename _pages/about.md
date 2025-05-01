@@ -39,7 +39,7 @@ Yicheng Luo, **Bowen Zhang**, Zhen Liu, Qianli Ma
 **Bowen Zhang**         
 *GitHub Repository, 50 ⭐*
   
-+ [Toward Physics-guided Time Series Embedding](https://arxiv.org/abs/2410.06651)
++ [Toward Physics-guided Time Series Embedding](https://arxiv.org/abs/2410.06651)   
 Jiaxi Hu, **Bowen Zhang**, Qingsong Wen, Fugee Tsung, Yuxuan Liang         
 *arxiv preprint, 2024*
 
