@@ -8,28 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year undergraduate student (with the highest honor **Top Ten Excellent Students Models of SCUT**) majoring in **Software Engineering** at the [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/). And I will join [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html#) as a Ph.D. student for 2025 fall intake. <!--Now I am doing my research on **Speech Processing**, advised by [Prof. Xiaofen Xing](https://dblp.org/pid/41/9939.html) and [Prof. Qingyao Wu](https://scholar.google.com/citations?user=n6e_2IgAAAAJ&hl=zh-CN).-->
+I am a final-year undergraduate student (with the highest honor **Top Ten Excellent Students Models of SCUT**) majoring in **Software Engineering** at the [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/). And I will join [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html#) as a Ph.D. student for 2025 fall intake. 
 
 I was grateful to join three research groups as a research intern. To be specific, I was a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuxuan Liang](https://yuxuanliang.com/). I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by [Prof. Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). And I joined [Key Laboratory of Big Data and Intelligent Robot](https://www2.scut.edu.cn/klbdir/) at [SCUT](https://www.scut.edu.cn/), advised by [Prof. Yi Cai](https://scholar.google.com.hk/citations?user=ej3Nb5wAAAAJ&hl=zh-CN).
 
-<!--I am grateful to join different groups at SCUT and HKUST(GZ) as a research intern during my undergraduate life. I developed project WiseSight SmartGlasses, advised by [Prof. Yi Cai](https://scholar.google.com.hk/citations?user=ej3Nb5wAAAAJ&hl=zh-CN). I did research on time series, advised by [Prof. Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm) and [Prof. Yuxuan Liang](https://yuxuanliang.com/). Now I research on speech processing and text-to-speech, advised by [Prof. Xiaofen Xing](https://dblp.org/pid/41/9939.html) and [Prof. Xiangmin Xu](https://dblp.org/pid/28/9939.html).-->
-
 My research interests include:
-- **Language and Speech Processing**: include *Text-to-Speech, Automatic Speech Recognition, Audio Foundation Model*, et al. 
+- **Speech and Language Processing**: include *Text-to-Speech, Automatic Speech Recognition, Audio Foundation Model*, et al. 
 - **Deep Generative Model**, especially *Large Language Model and Diffusion Model*
 - **Data Mining**: *Time-series Modeling, Spatio-temporal Data Mining, Graph Learning*
 
 # 🔥 News
-
 + [05/2025] 🎉🎉🎉**Hi-Patch** is accepted by **ICML'2025**!
-
 + [01/2025] [Speech&Audio papers@Top conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference) is released, welcome to star⭐
 + [01/2025] Accept Ph.D. offer from **CUHK**!
 + [11/2024] Awarded **"Encounter Xiaomian" Innovation Scholarship of SCUT** twice (1k RMB * 2)!
 + [10/2024] Glad to pass the **IELTS** test with score 6.5!
 + [10/2024] Awarded **Shenzhen Haopeng Technology Diligence Scholarship** (10k RMB, Rank 1/412)!!
 + [09/2024] Awarded **[First-class of Hongping Changqing Technology Innovation Scholarship of SCUT](https://www2.scut.edu.cn/_upload/article/files/95/21/192f9fa84a9dbbabe5641a8c1304/4df3c38b-e435-4d9a-b480-af5893d93b2c.pdf)** (3k RMB)
-
 - [04/2024] Awarded **[Top Ten Excellent Communist Party Members Nomination Award of SCUT](https://mp.weixin.qq.com/s/AXQzvTPrwo7ziBO1-_E-jw)** (Top 16/51324 at SCUT)
 - [12/2023] Awarded **[Top Ten Excellent Students Models of SCUT](https://news.scut.edu.cn/2023/1129/c160a47957/page.htm)** (15k RMB, The **highest honor** for undergraduates of SCUT, Top 10/27557 at SCUT)
 - [09/2023] Awarded **[First Prize Scholarship of SCUT](https://01Zhangbw.github.io/images/First_Prize.pdf)** (4k RMB, Top 2% at SCUT)
@@ -37,7 +32,7 @@ My research interests include:
 
 # 📕 Publication
 
-+ **Hi-Patch: Hierarchical Patch GNN for Irregular Multivariate Time Series**
++ **Hi-Patch: Hierarchical Patch GNN for Irregular Multivariate Time Series**     
   Yicheng Luo, **Bowen Zhang**, Zhen Liu, Qianli Ma         
   *International Conference on Machine Learning (**ICML**), 2025*
   
@@ -46,7 +41,6 @@ My research interests include:
   *GitHub Repository, 50 ⭐*
   
 + [Toward Physics-guided Time Series Embedding](https://arxiv.org/abs/2410.06651)
-
   Jiaxi Hu, **Bowen Zhang**, Qingsong Wen, Fugee Tsung, Yuxuan Liang         
   *arxiv preprint, 2024*
 
