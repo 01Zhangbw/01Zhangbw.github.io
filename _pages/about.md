@@ -18,6 +18,7 @@ My research interests include:
 - **Data Mining**: *Time-series Modeling, Spatio-temporal Data Mining, Graph Learning*
 
 # 🔥 News
++ [05/2025] One paper is submitted to **NeurIPS'2025**
 + [05/2025] 🎉🎉🎉**Hi-Patch** is accepted by **ICML'2025**!
 + [01/2025] [Speech&Audio papers@Top conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference) is released, welcome to star⭐
 + [01/2025] Accept Ph.D. offer from **CUHK**!
@@ -32,12 +33,12 @@ My research interests include:
 
 # 📕 Publications
 + **Hi-Patch: Hierarchical Patch GNN for Irregular Multivariate Time Series**     
-Yicheng Luo, **Bowen Zhang**, Zhen Liu, Qianli Ma         
-*International Conference on Machine Learning (**ICML**), 2025*
+  Yicheng Luo, **Bowen Zhang**, Zhen Liu, Qianli Ma         
+  *International Conference on Machine Learning (**ICML**), 2025*
   
 + **[Speech-and-audio-papers-Top-Conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference)**         
-**Bowen Zhang**         
-*GitHub Repository, 50 ⭐*
+  **Bowen Zhang**         
+  *GitHub Repository, 50 ⭐*
   
 + [Toward Physics-guided Time Series Embedding](https://arxiv.org/abs/2410.06651)   
 Jiaxi Hu, **Bowen Zhang**, Qingsong Wen, Fugee Tsung, Yuxuan Liang         
