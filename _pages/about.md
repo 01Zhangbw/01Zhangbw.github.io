@@ -18,7 +18,6 @@ My research interests include:
 - **Data Mining**: *Time-series Modeling, Spatio-temporal Data Mining, Graph Learning*
 
 # 🔥 News
-+ [05/2025] One paper is submitted to **NeurIPS'2025**
 + [05/2025] 🎉🎉🎉**Hi-Patch** is accepted by **ICML'2025**!
 + [01/2025] [Speech&Audio papers@Top conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference) is released, welcome to star⭐
 + [01/2025] Accept Ph.D. offer from **CUHK**!
@@ -26,6 +25,7 @@ My research interests include:
 + [10/2024] Glad to pass the **IELTS** test with score 6.5!
 + [10/2024] Awarded **Shenzhen Haopeng Technology Diligence Scholarship** (10k RMB, Rank 1/412)!
 + [09/2024] Awarded **[First-class of Hongping Changqing Technology Innovation Scholarship of SCUT](https://www2.scut.edu.cn/_upload/article/files/95/21/192f9fa84a9dbbabe5641a8c1304/4df3c38b-e435-4d9a-b480-af5893d93b2c.pdf)** (3k RMB)
+
 - [04/2024] Awarded **[Top Ten Excellent Communist Party Members Nomination Award of SCUT](https://mp.weixin.qq.com/s/AXQzvTPrwo7ziBO1-_E-jw)** (Top 16/51324 at SCUT)
 - [12/2023] Awarded **[Top Ten Excellent Students Models of SCUT](https://news.scut.edu.cn/2023/1129/c160a47957/page.htm)** (15k RMB, The **highest honor** for undergraduates of SCUT, Top 10/27557 at SCUT)
 - [09/2023] Awarded **[First Prize Scholarship of SCUT](https://01Zhangbw.github.io/images/First_Prize.pdf)** (4k RMB, Top 2% at SCUT)
