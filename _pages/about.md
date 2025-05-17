@@ -9,9 +9,13 @@ redirect_from:
 ---
 
 I am a final-year undergraduate student (with the highest honor **Top Ten Excellent Students Models of SCUT**) majoring in **Software Engineering** at the [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/). And I will join [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html#) as a Ph.D. student for 2025 fall intake.
-
-I was grateful to join three research groups as a research intern. To be specific, I was a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuxuan Liang](https://yuxuanliang.com/). I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by [Prof. Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). And I joined [Key Laboratory of Big Data and Intelligent Robot](https://www2.scut.edu.cn/klbdir/) at [SCUT](https://www.scut.edu.cn/), advised by [Prof. Yi Cai](https://scholar.google.com.hk/citations?user=ej3Nb5wAAAAJ&hl=zh-CN).
-
+<!-- 
+  这是多行注释，
+  可以写多行内容，
+  也不会显示。
+-->
+<!--I was grateful to join three research groups as a research intern. To be specific, I was a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuxuan Liang](https://yuxuanliang.com/). I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by [Prof. Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). And I joined [Key Laboratory of Big Data and Intelligent Robot](https://www2.scut.edu.cn/klbdir/) at [SCUT](https://www.scut.edu.cn/), advised by [Prof. Yi Cai](https://scholar.google.com.hk/citations?user=ej3Nb5wAAAAJ&hl=zh-CN).
+-->
 My research interests include:
 - **Speech and Language Processing**: include *Text-to-Speech, Automatic Speech Recognition, Audio Foundation Model*, et al.
 - **Deep Generative Model**, especially *Large Language Model and Diffusion Model*
