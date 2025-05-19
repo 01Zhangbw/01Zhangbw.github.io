@@ -24,9 +24,9 @@ author:
   avatar           : "photo1.jpg"
   name             : "Bowen Zhang (张勃文)"
   pronouns         : # example: "he/his"  
-  bio              : #"undergradate student at SCUT"
-  location         : "Guangzhou, China"
-  employer         : "South China University of Technology"
+  bio              : Incoming PhD Student
+  location         : # "Hong Kong SAR, China"
+  employer         : "The Chinese University of Hong Kong"
   uri              : # URL
   email            : "zhangbw0102@gmail.com" 
 
