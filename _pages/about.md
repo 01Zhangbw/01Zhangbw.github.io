@@ -41,7 +41,7 @@ My research interests include:
   
 + **[Speech-and-audio-papers-Top-Conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference)**         
   **Bowen Zhang**         
-  *GitHub Repository, 50 ⭐*
+  *GitHub Repository, 60 ⭐*
   
 + **[Toward Physics-guided Time Series Embedding](https://arxiv.org/abs/2410.06651)**   
 Jiaxi Hu, **Bowen Zhang**, Qingsong Wen, Fugee Tsung, Yuxuan Liang         
