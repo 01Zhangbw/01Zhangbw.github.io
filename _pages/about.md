@@ -37,7 +37,7 @@ My research interests include:
 # 📕 Publications
 + **[Hi-Patch: Hierarchical Patch GNN for Irregular Multivariate Time Series](https://icml.cc/virtual/2025/poster/44115)**     
   Yicheng Luo, **Bowen Zhang**, Zhen Liu, Qianli Ma         
-  *International Conference on Machine Learning (**ICML**), 2025*
+  *International Conference on Machine Learning (**ICML**), 2025*, [paper](https://01zhangbw.github.io/files/Hi-Patch.pdf), [code](https://github.com/easonLuo2001/Hi-Patch)
   
 + **[Speech-and-audio-papers-Top-Conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference)**         
   **Bowen Zhang**         
