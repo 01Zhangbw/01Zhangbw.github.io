@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year undergraduate student (with the highest honor **Top Ten Excellent Students Models of SCUT**) majoring in **Software Engineering** at the [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/). And I will join [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html#) as a Ph.D. student for 2025 fall intake.
+I am a final-year undergraduate student (with the highest honor **Top Ten Excellent Students Models of SCUT**) majoring in **Software Engineering** at the [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/). And I will join [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html#) as a Ph.D. student for 2025 fall intake, advised by [Prof. Xunying Liu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-liu-xunying/).
 <!-- 
   这是多行注释，
   可以写多行内容，
