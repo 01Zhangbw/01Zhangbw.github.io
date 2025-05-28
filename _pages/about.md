@@ -22,6 +22,7 @@ My research interests include:
 - **Data Mining**: *Time-series Modeling, Spatio-temporal Data Mining, Graph Learning*
 
 # 🔥 News
++ [05/2025] 🎉🎉🎉Successfully passed my undergraduate thesis defense!
 + [05/2025] 🎉🎉🎉**Hi-Patch** is accepted by **ICML'2025**!
 + [01/2025] **[Speech&Audio papers@Top conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference)** is released, welcome to star⭐
 + [01/2025] Accept Ph.D. offer from **CUHK**!
