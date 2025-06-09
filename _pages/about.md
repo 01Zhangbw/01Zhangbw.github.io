@@ -48,6 +48,17 @@ My research interests include:
 Jiaxi Hu, **Bowen Zhang**, Qingsong Wen, Fugee Tsung, Yuxuan Liang         
 *arxiv preprint, 2024*
 
+# 🏠 Education
+<img src="images/../../images/logos/CUHK1.png" alt="CUHK" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
+* **The Chinese University of Hong Kong**            
+Ph.D. Student, 2025.8 ~ Present  
+Advisor: [Prof. Xunying Liu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-liu-xunying/)  
+
+<img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
+* **South China University of Technology**            
+Undergraduate Student, 2021.9 ~ 2025.6  
+GPA: 3.89/4.0, Rank: 2/49, with the highest honor at SCUT
+
 # 🚶 Experience
 <img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
 * **The Hong Kong University of Science and Technology (Guangzhou)**            
