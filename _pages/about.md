@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Ph.D student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html#), advised by [Prof. Xunying Liu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-liu-xunying/). Before that, I received my B.E degree from [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/), with the highest honor **Top Ten Excellent Students Models of SCUT**.
+I am a Ph.D student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html#), advised by [Prof. Xunying Liu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-liu-xunying/). Before that, I received my B.E degree from [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/), with the highest honor **Top Ten Excellent Students Models of SCUT**.
 
 <!-- 
   I am a final-year undergraduate student (with the highest honor **Top Ten Excellent Students Models of SCUT**) majoring in **Software Engineering** at the [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/). And I will join [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html#) as a Ph.D. student for 2025 fall intake, advised by [Prof. Xunying Liu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-liu-xunying/).
@@ -38,11 +38,11 @@ My research interests include:
 # 📕 Publications
 + **[Hi-Patch: Hierarchical Patch GNN for Irregular Multivariate Time Series](https://icml.cc/virtual/2025/poster/44115)**     
   Yicheng Luo, **Bowen Zhang**, Zhen Liu, Qianli Ma         
-  *International Conference on Machine Learning (**ICML**), 2025*, [paper](https://01zhangbw.github.io/files/Hi-Patch.pdf), [code](https://github.com/easonLuo2001/Hi-Patch)
+  *International Conference on Machine Learning (**ICML**), 2025*, [paper](https://openreview.net/forum?id=nBgQ66iEUu), [code](https://github.com/easonLuo2001/Hi-Patch)
   
 + **[Speech-and-audio-papers-Top-Conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference)**         
   **Bowen Zhang**         
-  *GitHub Repository, 60 ⭐*
+  *GitHub Repository, 90 ⭐*
   
 + **[Toward Physics-guided Time Series Embedding](https://arxiv.org/abs/2410.06651)**   
 Jiaxi Hu, **Bowen Zhang**, Qingsong Wen, Fugee Tsung, Yuxuan Liang         
@@ -102,3 +102,4 @@ Advisor: [Prof. Fei Liu](https://scholar.google.com/citations?hl=en&user=gC-YMYg
 
 # 💻 Service
 * Monitor of class, Software Engineering(Excellent Engineer Class), SCUT, 2022-2025
+* Teaching Assistance: SEEM3440 Operations Research II(2025 Fall), SEEM4540 Open Systems for E-Commerce(2026 Spring)
