@@ -9,19 +9,10 @@ redirect_from:
 ---
 
 I am a Ph.D student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html#), advised by [Prof. Xunying Liu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-liu-xunying/). Before that, I received my B.E degree from [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/), with the highest honor **Top Ten Excellent Students Models of SCUT**.
-
-<!-- 
-  I am a final-year undergraduate student (with the highest honor **Top Ten Excellent Students Models of SCUT**) majoring in **Software Engineering** at the [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/). And I will join [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html#) as a Ph.D. student for 2025 fall intake, advised by [Prof. Xunying Liu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-liu-xunying/).
--->
-<!--I was grateful to join three research groups as a research intern. To be specific, I was a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuxuan Liang](https://yuxuanliang.com/). I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by [Prof. Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). And I joined [Key Laboratory of Big Data and Intelligent Robot](https://www2.scut.edu.cn/klbdir/) at [SCUT](https://www.scut.edu.cn/), advised by [Prof. Yi Cai](https://scholar.google.com.hk/citations?user=ej3Nb5wAAAAJ&hl=zh-CN).
--->
-My research interests include:
-
-- **Speech and Language Processing**: include *Text-to-Speech, Automatic Speech Recognition, Audio Foundation Model*, et al.
-- **Deep Generative Model**, especially *Large Language Model and Diffusion Model*
-- **Data Mining**: *Time-series Modeling, Spatio-temporal Data Mining, Graph Learning*
-
+My research interests include speech/audio/language processing (ASR, TTS, et al) and related technologies. Formly, I spent much time on data mining (time-series modeling), with work [Hi-Patch](https://github.com/easonLuo2001/Hi-Patch) and  [Physics-guided TS Embedding](https://arxiv.org/abs/2410.06651).
 # 🔥 News
++ [09/2025] 🎉🎉🎉**[Speech&Audio papers@Top conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference)** has got 100 ⭐!
++ [08/2025] Start my PhD life at CUHK, and I’m excited to meet everyone!
 + [05/2025] 🎉🎉🎉Successfully passed my undergraduate thesis defense!
 + [05/2025] 🎉🎉🎉**Hi-Patch** is accepted by **ICML'2025**!
 + [01/2025] **[Speech&Audio papers@Top conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference)** is released, welcome to star⭐
@@ -42,7 +33,7 @@ My research interests include:
   
 + **[Speech-and-audio-papers-Top-Conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference)**         
   **Bowen Zhang**         
-  *GitHub Repository, 90 ⭐*
+  *GitHub Repository, 100 ⭐*
   
 + **[Toward Physics-guided Time Series Embedding](https://arxiv.org/abs/2410.06651)**   
 Jiaxi Hu, **Bowen Zhang**, Qingsong Wen, Fugee Tsung, Yuxuan Liang         
