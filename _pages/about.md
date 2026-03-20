@@ -33,31 +33,6 @@ Advisor: [Prof. Xunying Liu](https://www.se.cuhk.edu.hk/people/academic-staff/pr
 Undergraduate Student, 2021.9 ~ 2025.6  
 GPA: 3.89/4.0, Rank: 2/49, with the highest honor at SCUT
 
-# 🚶 Experience
-<img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
-* **The Hong Kong University of Science and Technology (Guangzhou)**            
-Research Intern @ [CityMind Lab](https://citymind.top/), 2024.6 ~ 2024.9  
-Research Topic: Time-series Modeling & Spatio-temporal Data Mining      
-Advisor: [Prof. Yuxuan Liang](https://yuxuanliang.com/)  
-
-<img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
-* **South China University of Technology**            
-Research Intern @ [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), 2023.10~2024.6   
-Research Topic: Time-series & Graph Neural Network & Mixture of Experts
-Advisor: [Prof. Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)       
-
-<img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
-* **South China University of Technology**            
-Project/Research Intern @ [Key Laboratory of Big Data and Intelligent Robot](https://www2.scut.edu.cn/klbdir/), 2023.3~2024.6   
-Main Project: WiseSight: AIGC-based Smart Glasses for Elderly Life Assistance   
-Advisor: [Prof. Yi Cai](https://scholar.google.com.hk/citations?user=ej3Nb5wAAAAJ&hl=zh-CN)  
-
-<img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
-* **South China University of Technology**            
-Project Intern @ [Group of Large Software Development and Application](https://www2.scut.edu.cn/sse/2018/0614/c16788a270676/page.htm), 2022.12~2023.12   
-Project Topic: A question&answer system for cpp knowledge  
-Advisor: [Prof. Fei Liu](https://scholar.google.com/citations?hl=en&user=gC-YMYgAAAAJ&view_op=list_works)  
-
 # 🎖 Honors & Awards
 * Hong Kong Postgraduate Scholarship, 2025-2029
 * National Scholarship, 2022 (Top 0.2% nation-wide)
