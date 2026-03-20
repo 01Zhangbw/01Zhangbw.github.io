@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html#), fortunately advised by [Prof. Xunying Liu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-liu-xunying/). Before that, I received my B.E degree from [School of Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/), with the highest honor **Top Ten Excellent Students Models of SCUT**.
-My research interests include speech, audio and language processing, including ASR, et al.
+My research interests include speech, audio and language processing, including ASR.
 
 
 
